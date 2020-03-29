@@ -35,7 +35,6 @@ Analyze the data using the dataset of shopping history on Black Friday. Build a 
 #### <i>Baseline Model</i>
 - Build a baseline model(Popularity Model) to compare with our model
 - Implement a Cosine Similarity Function and compute similarity
-<br>
 
 #### <i>Collaborative Filtering Model</i>
 - Build a <b>Collaborative Filtering Model - user based</b>
